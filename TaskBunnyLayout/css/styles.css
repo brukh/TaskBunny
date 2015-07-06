@@ -1,3 +1,14 @@
+@font-face {
+  font-family: 'BrandonText-Bold';
+  src: url("fonts/brandon-text-bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'BrandonText-Medium';
+  src: url("fonts/brandon-text-medium.ttf");
+  font-weight: medium;
+}
+
 h4 {
     display: inline-block;
 }
